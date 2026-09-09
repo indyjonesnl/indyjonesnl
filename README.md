@@ -6,6 +6,7 @@
 - [containerd-rs](https://github.com/indyjonesnl/containerd-rs) (CRI) Containerd reimagined in Rust
 - [mikronetes](https://github.com/indyjonesnl/mikronetes) k0s-like setup, where we use Rusternetes, containerd-rs and crun instead of the default Kubernetes components
 - [rhino](https://github.com/indyjonesnl/rhino) etcd replacement that uses any DB as config persistence, similar to Kine
+- [kine-rs](https://github.com/indyjonesnl/kine-rs) [Work In Progress] etcd replacement that currently support sqlite as config persistence, similar to Kine
 - [kube-router-rs](https://github.com/indyjonesnl/kube-router-rs) (CNI)
 - [flannel-rs](https://github.com/indyjonesnl/flannel-rs) (CNI)
 - [calico-rs](https://github.com/indyjonesnl/calico-rs) (CNI)
