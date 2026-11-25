@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indy Jones</h1>
 <h3 align="center">A passionate software developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on [k3rs](https://github.com/indyjonesnl/k3rs) which will form the basis for the next-gen Kubernetes stack, consisting of:
+- 🔭 I’m currently working on [kubernetes-rs](https://github.com/indyjonesnl/kubernetes-rs) which will form the basis for the next-gen Kubernetes stack, consisting of:
 - [machined-rs](https://github.com/indyjonesnl/machined-rs) Talos's `machined` reimagined in Rust, for running k3rs as PID1 process on Linux
 - [containerd-rs](https://github.com/indyjonesnl/containerd-rs) (CRI) Containerd reimagined in Rust
 - [mikronetes](https://github.com/indyjonesnl/mikronetes) k0s-like setup, where we use k3rs, containerd-rs and crun instead of the default Kubernetes components
